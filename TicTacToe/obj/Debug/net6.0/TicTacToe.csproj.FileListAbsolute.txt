@@ -1,0 +1,15 @@
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/jamiedowner/Documents/Programming_Stuff/C#_Udemy/TicTacToe/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
